@@ -71,6 +71,8 @@
 <div id="works" class="section-wrap section-works">
 	<div class="section">
 		<div class="works-content section-content">
+		<br></br>
+		<br></br>
 			<h1>近期学习作品</h1>
 			<div class="works-list clearfix">
 				<div class="works-item first fade fade1">
@@ -155,9 +157,9 @@
 					</ul>
 				</div>
 				<div class="contact-info fade fade2">
-				<br></br>
+				<p></p>
 					<h2>本站声明</h2>
-					<p>本站设计、交互、编码均由 Song 一人fork 独立完成。感谢 jQuery 提供了很多方便。本站源代码已经公开在 github 上面，欢迎 fork 学习。</p>
+					<p>本站设计、交互、编码均由 Song fork 完成,不是本人设计。感谢 jQuery 提供了很多方便。本站源代码已经公开在 github 上面，欢迎 fork 学习。</p>
 				</div>
 			</div>
 			<div class="right fade fade3">
